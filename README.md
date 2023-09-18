@@ -1,3 +1,5 @@
+# Download the project/task and install all project dependencies by running the cammand npm i
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
