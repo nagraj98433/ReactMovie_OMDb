@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactMovie_OMDb/static/css/main.f2083091.css",
+    "main.js": "/ReactMovie_OMDb/static/js/main.efae18de.js",
+    "static/js/787.e1d14504.chunk.js": "/ReactMovie_OMDb/static/js/787.e1d14504.chunk.js",
+    "index.html": "/ReactMovie_OMDb/index.html",
+    "main.f2083091.css.map": "/ReactMovie_OMDb/static/css/main.f2083091.css.map",
+    "main.efae18de.js.map": "/ReactMovie_OMDb/static/js/main.efae18de.js.map",
+    "787.e1d14504.chunk.js.map": "/ReactMovie_OMDb/static/js/787.e1d14504.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2083091.css",
+    "static/js/main.efae18de.js"
+  ]
+}
