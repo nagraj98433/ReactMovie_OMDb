@@ -31,3 +31,6 @@
 .iconStyle.favorited {
   color: red; /* Change the color when favorited */
 }
+.red-heart {
+  color: red;
+}
