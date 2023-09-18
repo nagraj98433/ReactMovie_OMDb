@@ -1,0 +1,33 @@
+#MovieCard {
+  position: relative;
+}
+.iconStyle {
+  position: absolute;
+  right: 7px;
+  top: 9px;
+}
+.iconStyle:hover {
+  color: red;
+}
+.iconStyle {
+  color: #cd7474;
+  font-size: 24px;
+  cursor: pointer;
+}
+#MovieCard {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  /* padding: 3.2rem 1rem; */
+  background-color: #4a5c6c;
+  color: var(--text-c);
+  border: 0.2rem solid var(--text-clr);
+  font-size: 1.8rem;
+  border-radius: 0.5rem;
+  transition: all 0.3s linear;
+}
+
+.iconStyle.favorited {
+  color: red; /* Change the color when favorited */
+}
